@@ -1,4 +1,3 @@
-# demo
 # Physics-Based Character Control with DeepMimic Extensions
 
 This project builds on [DeepMimic](https://github.com/xbpeng/DeepMimic), a reinforcement learning framework for physics-based character animation.  
@@ -17,18 +16,19 @@ My research extends DeepMimic to achieve robust locomotion and goal-directed nav
 
 ## Demo Videos
 
-- **LLC Demonstrations**
-  - [LLC Box Demo](./llc_box.mp4) — Box-shaped agent locomotion  
-  - [LLC Humanoid Demo](./llc_box.mp4) — Humanoid agent locomotion
+### LLC Demonstrations
+[![LLC Box Demo](https://img.youtube.com/vi/PSGnDfQTj3g/0.jpg)](https://www.youtube.com/watch?v=PSGnDfQTj3g)
 
-- **HLC Demonstrations**
-  - [`hlc.mp4`](link) — High-level navigation towards target goals
+[![LLC Humanoid Demo](https://img.youtube.com/vi/YOUR_HUMANOID_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_HUMANOID_VIDEO_ID)
 
-- **Test Scenarios**
-  - [`circle.mp4`](link) — Circular navigation test  
-  - [`scenarios.mp4`](link) — Multiple scenario evaluations
+### HLC Demonstrations
+[![HLC Navigation Demo](https://img.youtube.com/vi/YOUR_HLC_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_HLC_VIDEO_ID)
 
-*(If GitHub cannot host large files, the videos are available via external links.)*
+### Test Scenarios
+[![Circle Scenario Demo](https://img.youtube.com/vi/YOUR_CIRCLE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_CIRCLE_VIDEO_ID)  
+[![Multiple Scenarios Demo](https://img.youtube.com/vi/YOUR_SCENARIOS_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_SCENARIOS_VIDEO_ID)
+
+*(Click the images above to watch the videos on YouTube.)*
 
 ## Features
 
@@ -49,4 +49,3 @@ My research extends DeepMimic to achieve robust locomotion and goal-directed nav
 ## Citation
 
 If referencing this project in research, please cite [DeepMimic](https://xbpeng.github.io/projects/DeepMimic/index.html) as the base framework.
-
