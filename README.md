@@ -1,12 +1,12 @@
 # Physics-Based Character Control with DeepMimic Extensions
 
-This project builds on [DeepMimic](https://github.com/xbpeng/DeepMimic), a reinforcement learning framework for physics-based character animation.  
-My research extends DeepMimic to achieve robust locomotion and goal-directed navigation using hierarchical control.
+This project builds on [DeepLoco](https://xbpeng.github.io/projects/DeepLoco/index.html), a reinforcement learning framework for physics-based character animation.  
+My research extends DeepLoco to achieve more generalized and robust locomotion and goal-directed navigation using hierarchical control.
 
 ## Overview
 
 - **Low-Level Controller (LLC)**  
-  A motion imitation controller trained with DeepMimic to produce stable and realistic physics-based locomotion from movement vectors.
+  A motion imitation controller trained to produce stable and realistic physics-based locomotion from movement vectors.
 
 - **High-Level Controller (HLC)**  
   A navigation policy that directs agents toward target locations by providing movement vectors to the LLC.
@@ -27,7 +27,6 @@ My research extends DeepMimic to achieve robust locomotion and goal-directed nav
 [![Circle Scenario Demo](https://img.youtube.com/vi/fXfoR93CYf4/0.jpg)](https://www.youtube.com/watch?v=fXfoR93CYf4)  
 [![Multiple Scenarios Demo](https://img.youtube.com/vi/7ydab6GlBX0/0.jpg)](https://www.youtube.com/watch?v=7ydab6GlBX0)
 
-*(Click the images above to watch the demos on YouTube.)*
 
 ## Features
 
@@ -38,13 +37,9 @@ My research extends DeepMimic to achieve robust locomotion and goal-directed nav
 
 ## Built With
 
-- [DeepMimic](https://github.com/xbpeng/DeepMimic)  
+- [DeepLoco](https://xbpeng.github.io/projects/DeepLoco/index.html)  
 - [Bullet Physics](https://github.com/bulletphysics/bullet3)  
 - Python (for training and control logic)  
 - C++ (for physics simulation)
 
----
 
-## Citation
-
-If referencing this project in research, please cite [DeepMimic](https://xbpeng.github.io/projects/DeepMimic/index.html) as the base framework.
