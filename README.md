@@ -17,18 +17,17 @@ My research extends DeepMimic to achieve robust locomotion and goal-directed nav
 ## Demo Videos
 
 ### LLC Demonstrations
-[![LLC Box Demo](https://img.youtube.com/vi/PSGnDfQTj3g/0.jpg)](https://www.youtube.com/watch?v=PSGnDfQTj3g)
-
-[![LLC Humanoid Demo](https://img.youtube.com/vi/YOUR_HUMANOID_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_HUMANOID_VIDEO_ID)
+[![LLC Box Demo](https://img.youtube.com/vi/PSGnDfQTj3g/0.jpg)](https://www.youtube.com/watch?v=PSGnDfQTj3g)  
+[![LLC Humanoid Demo](https://img.youtube.com/vi/U1S0KrvUdaU/0.jpg)](https://www.youtube.com/watch?v=U1S0KrvUdaU)
 
 ### HLC Demonstrations
-[![HLC Navigation Demo](https://img.youtube.com/vi/YOUR_HLC_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_HLC_VIDEO_ID)
+[![HLC Navigation Demo](https://img.youtube.com/vi/jfo7rZhpixc/0.jpg)](https://www.youtube.com/watch?v=jfo7rZhpixc)
 
 ### Test Scenarios
-[![Circle Scenario Demo](https://img.youtube.com/vi/YOUR_CIRCLE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_CIRCLE_VIDEO_ID)  
-[![Multiple Scenarios Demo](https://img.youtube.com/vi/YOUR_SCENARIOS_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_SCENARIOS_VIDEO_ID)
+[![Circle Scenario Demo](https://img.youtube.com/vi/fXfoR93CYf4/0.jpg)](https://www.youtube.com/watch?v=fXfoR93CYf4)  
+[![Multiple Scenarios Demo](https://img.youtube.com/vi/7ydab6GlBX0/0.jpg)](https://www.youtube.com/watch?v=7ydab6GlBX0)
 
-*(Click the images above to watch the videos on YouTube.)*
+*(Click the images above to watch the demos on YouTube.)*
 
 ## Features
 
