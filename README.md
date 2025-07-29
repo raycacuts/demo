@@ -18,8 +18,8 @@ My research extends DeepMimic to achieve robust locomotion and goal-directed nav
 ## Demo Videos
 
 - **LLC Demonstrations**
-  - [`llc_box.mp4`](link) — Box-shaped agent locomotion  
-  - [`llc_humanoid.mp4`](link) — Humanoid agent locomotion
+  - [LLC Box Demo](./llc_box.mp4) — Box-shaped agent locomotion  
+  - [LLC Humanoid Demo](./llc_box.mp4) — Humanoid agent locomotion
 
 - **HLC Demonstrations**
   - [`hlc.mp4`](link) — High-level navigation towards target goals
